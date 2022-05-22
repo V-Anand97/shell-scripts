@@ -9,7 +9,7 @@ read name1 name2 name3
 echo "hello $name1, $name2, $name3"
 
 echo "example for taking input on the same line"
-read -p "user_name: " user_name
+read -p "user_name: " user_name 
 read -sp "password: " password # -s is used when you dont want to display the sensitive user input
 echo "user_name is" $user_name
 echo "password is " $password 

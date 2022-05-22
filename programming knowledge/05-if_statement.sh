@@ -26,7 +26,7 @@ if [[ $string > "c" ]]
 then 
     echo "statement is false"
 else
-    echo "statement is false"
+    echo "statement is true"
 fi
 
 echo "example for if else elif"
@@ -45,7 +45,7 @@ fi
 
  if [ condition ]
  then 
-    ststement
+    statement
  fi
 *********************************
 http://www.codebind.com/linux-tutorials/bash-shell-scripting-statement-fi-else-fi-elif-else-fi/

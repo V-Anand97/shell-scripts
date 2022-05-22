@@ -11,7 +11,7 @@ fi
 <<com
 https://www.youtube.com/watch?v=m4G3MLK8l4s&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_&index=8
 
-he Logical AND "&&" is a boolean operator that executes following commands based on the outcome of previously executed commands. 
+The Logical AND "&&" is a boolean operator that executes following commands based on the outcome of previously executed commands. 
 Logical AND (&&) if [[expr1 && expr2]] Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
 
 - for using And operator use &&
